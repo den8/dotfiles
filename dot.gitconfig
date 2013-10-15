@@ -1,0 +1,11 @@
+[user]
+	name = Yuuki Tanaka
+	email = y.tanaka8@gmail.com
+[color]
+	ui = true
+[alias]
+	co = checkout
+	st = status
+	ci = commit -a
+	di = diff
+	br = branch
